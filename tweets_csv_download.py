@@ -10,10 +10,10 @@ import unicodecsv as csv
 import os
 
 #Twitter API
-consumer_key = "veJT9JSG1GkcipHea1FE46jfo"
-consumer_secret = "u7vsqY3kLr3gFBbiveHolG4T8cA9Gg75vjk7iUyxvKcgByKslO"
-access_key = "1647057175-RpRA4V1gFpzOpMC0P4TOVZTiAPddRHaRni9Z3G1"
-access_secret = "2AZqJ64bOw8iAtswROdmnNjAfPFnkLZ31VzGzAihHfthm"
+consumer_key = "your consumer key"
+consumer_secret = "your consumer secret"
+access_key = "your access key"
+access_secret = "your access secret"
 
 
 def get_all_tweets(screen_name):
